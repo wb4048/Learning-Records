@@ -53,7 +53,7 @@ int main()
     char arr1[]="abcdef";
     char arr2[]="abcvbnhgf";
 
-    //size_t ret=my_strlen(arr);
+    //size_t ret=my_strlen(arr1);
     //printf("%d",ret);
 
     //my_strcpy(arr1,arr2);
